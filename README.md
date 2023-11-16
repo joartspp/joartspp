@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Supakorn Siridang (xJoez)
+Hello Oh Yeah. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Supakorn Siridang (xJoez)
 =================================================================================================================================================
 
 The only way to do great work is to love what you do.

@@ -4,9 +4,8 @@ Hello Oh Yeah. ![](https://user-images.githubusercontent.com/18350557/176309783-
 The only way to do great work is to love what you do.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my FiveM portfolio at [Portfolio (FiveM)](http://fivem-resume.xjoez.com/)
 * ✉️  You can contact me at [supakorn.siridang@gmail.com](mailto:supakorn.siridang@gmail.com)
-* 🚀  I'm currently working on [ETS KMUTT](http://www.ets.kmutt.ac.th/) - Fullstack Developer (Laravel + Vue.JS)
+* 🚀  I'm currently working on [ETS KMUTT](http://www.ets.kmutt.ac.th/) - Fullstack Developer
 
 ### Skills
 <b>Backend</b>

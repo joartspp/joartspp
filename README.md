@@ -1,9 +1,6 @@
-Hello Oh Yeah. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Supakorn Siridang (Joe)
+Hi Hi. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Supakorn Siridang (Joe)
 =================================================================================================================================================
-
-The only way to do great work is to love what you do.
-
-* 🌍  I'm based in Bangkok, Thailand
+* 🌍  Based: BKK, Thailand
 * ✉️  You can contact me at [supakorn.siridang@gmail.com](mailto:supakorn.siridang@gmail.com)
 * 🚀  I'm currently working on [ETS KMUTT](http://www.ets.kmutt.ac.th/) - Fullstack Developer
 
